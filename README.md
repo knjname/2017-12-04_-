@@ -1,6 +1,9 @@
-# TypeScript/Webpack/Jest project sample
+# くだらないシューティング
 
 MIT license.
 
-* No minimal dependencies.
-  * But it can give you some insight when setting up a similar project.
+```
+$ yarn
+$ yarn run dev
+$ open http://localhost:8080/
+```
